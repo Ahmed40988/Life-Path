@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Lifecare.Controllers.DoctorController",
+    "Method": "GetAll",
+    "RelativePath": "api/Doctor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

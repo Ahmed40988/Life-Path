@@ -1,0 +1,68 @@
+C:\Users\Mohamed_Khaled\source\repos\Lifecare\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\Mohamed_Khaled\source\repos\Lifecare\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\Mohamed_Khaled\source\repos\Lifecare\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\Mohamed_Khaled\source\repos\Lifecare\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\Mohamed_Khaled\source\repos\Lifecare\Dal\bin\Debug\net8.0\Lifepath.Entities.dll
+C:\Users\Mohamed_Khaled\source\repos\Lifecare\Dal\bin\Debug\net8.0\Lifepath.Entities.pdb
+C:\Users\Mohamed_Khaled\source\repos\Lifecare\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\Mohamed_Khaled\source\repos\Lifecare\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed_Khaled\source\repos\Lifecare\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\Mohamed_Khaled\source\repos\Lifecare\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\Mohamed_Khaled\source\repos\Lifecare\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed_Khaled\source\repos\Lifecare\Dal\obj\Debug\net8.0\Dal.csproj.Up2Date
+C:\Users\Mohamed_Khaled\source\repos\Lifecare\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\Mohamed_Khaled\source\repos\Lifecare\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\Mohamed_Khaled\source\repos\Lifecare\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\Mohamed_Khaled\source\repos\Lifecare\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\Mohamed_Khaled\source\repos\Lifecare\Dal\obj\Debug\net8.0\ref\Dal.dll
+D:\Lifecare\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+D:\Lifecare\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lifecare\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+D:\Lifecare\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+D:\Lifecare\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+D:\Lifecare\Dal\obj\Debug\net8.0\Dal.dll
+D:\Lifecare\Dal\obj\Debug\net8.0\refint\Dal.dll
+D:\Lifecare\Dal\obj\Debug\net8.0\Dal.pdb
+D:\Lifecare\Dal\bin\Debug\net8.0\Dal.deps.json
+D:\Lifecare\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+D:\Lifecare\Dal\bin\Debug\net8.0\Dal.dll
+D:\Lifecare\Dal\bin\Debug\net8.0\Dal.pdb
+D:\Lifecare\Dal\bin\Debug\net8.0\Lifepath.Entities.dll
+D:\Lifecare\Dal\bin\Debug\net8.0\Lifepath.Entities.pdb
+D:\Lifecare\Dal\obj\Debug\net8.0\Dal.csproj.Up2Date
+D:\Lifecare\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+D:\Lifecare\Dal\obj\Debug\net8.0\ref\Dal.dll
+E:\my projects\Life-Path-master\Dal\bin\Debug\net8.0\Dal.deps.json
+E:\my projects\Life-Path-master\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+E:\my projects\Life-Path-master\Dal\bin\Debug\net8.0\Dal.dll
+E:\my projects\Life-Path-master\Dal\bin\Debug\net8.0\Dal.pdb
+E:\my projects\Life-Path-master\Dal\bin\Debug\net8.0\Lifepath.Entities.dll
+E:\my projects\Life-Path-master\Dal\bin\Debug\net8.0\Lifepath.Entities.pdb
+E:\my projects\Life-Path-master\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+E:\my projects\Life-Path-master\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\my projects\Life-Path-master\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+E:\my projects\Life-Path-master\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+E:\my projects\Life-Path-master\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+E:\my projects\Life-Path-master\Dal\obj\Debug\net8.0\Dal.csproj.Up2Date
+E:\my projects\Life-Path-master\Dal\obj\Debug\net8.0\Dal.dll
+E:\my projects\Life-Path-master\Dal\obj\Debug\net8.0\refint\Dal.dll
+E:\my projects\Life-Path-master\Dal\obj\Debug\net8.0\Dal.pdb
+E:\my projects\Life-Path-master\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+E:\my projects\Life-Path-master\Dal\obj\Debug\net8.0\ref\Dal.dll
+D:\my project\Life-Path-master\Dal\bin\Debug\net8.0\Dal.deps.json
+D:\my project\Life-Path-master\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+D:\my project\Life-Path-master\Dal\bin\Debug\net8.0\Dal.dll
+D:\my project\Life-Path-master\Dal\bin\Debug\net8.0\Dal.pdb
+D:\my project\Life-Path-master\Dal\bin\Debug\net8.0\Lifepath.Entities.dll
+D:\my project\Life-Path-master\Dal\bin\Debug\net8.0\Lifepath.Entities.pdb
+D:\my project\Life-Path-master\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+D:\my project\Life-Path-master\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\my project\Life-Path-master\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+D:\my project\Life-Path-master\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+D:\my project\Life-Path-master\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+D:\my project\Life-Path-master\Dal\obj\Debug\net8.0\Dal.csproj.Up2Date
+D:\my project\Life-Path-master\Dal\obj\Debug\net8.0\Dal.dll
+D:\my project\Life-Path-master\Dal\obj\Debug\net8.0\refint\Dal.dll
+D:\my project\Life-Path-master\Dal\obj\Debug\net8.0\Dal.pdb
+D:\my project\Life-Path-master\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+D:\my project\Life-Path-master\Dal\obj\Debug\net8.0\ref\Dal.dll
